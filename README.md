@@ -1,52 +1,62 @@
-# 🧪 SlimeChem
+<div align="center">
 
-## 🌌 El Corazón de la Alquimia Nuclear
-**SlimeChem** es un addon avanzado para el ecosistema **Drake Slimefun** enfocado en la química nuclear, la transmutación de elementos y la generación de energía mediante isótopos inestables.
+  <img src="https://raw.githubusercontent.com/DrakesCraft-Labs/SlimeChem-drake/main/banner.svg" alt="SlimeChem-drake Banner" width="920" />
 
-> [!IMPORTANT]
-> Esta versión ha sido reconstruida para **Minecraft 1.21.1** y **Java 21**, eliminando dependencias obsoletas y optimizando el rendimiento molecular.
+# ⚡ SlimeChem-drake
 
----
+**SLIMEFUN4 ADDON · DRAKES EDITION**
 
-## ✨ Características Premium
+<p>
+  <a href="https://github.com/DrakesCraft-Labs/SlimeChem-drake"><img src="https://img.shields.io/badge/GitHub-SlimeChem-drake-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Slimefun4-Drake_Edition-22C55E?style=for-the-badge&logo=curseforge&logoColor=white" alt="Slimefun4"/>
+  <img src="https://img.shields.io/badge/Paper-1.21.11-38BDF8?style=for-the-badge&logo=minecraft&logoColor=white" alt="Paper 1.21.11"/>
+  <img src="https://img.shields.io/badge/Java-21-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
+</p>
 
-| Característica | Descripción |
-| :--- | :--- |
-| **☢️ Fisión de Partículas** | Sistemas complejos de fisión para extraer isótopos raros. |
-| **⚗️ Reactor Térmico** | Generador de radioisótopos (RTG) con salida de energía ultra-estable. |
-| **⚛️ Tabla Periódica** | Categoría flexible integrada con navegación intuitiva por elementos. |
-| **💎 Transmutación** | Convierte metales base en materiales de grado galáctico. |
+</div>
 
 ---
 
-## 🛠️ Especificaciones Técnicas
+## 📖 Descripción Detallada
 
-```mermaid
-graph TD
-    A[Elementos Base] -->|Disolución Química| B(Isótopos)
-    B -->|Enriquecimiento| C{Generador RTG}
-    C -->|Energía Constante| D[Maquinaria Drake]
-```
+**SlimeChem-drake** es una expansión modular del ecosistema **DrakesCraft Labs** para servidores Minecraft **Paper / Purpur 1.21.11**.
 
-- **Compatibilidad**: Slimefun Drake Edition.
-- **Motor**: Java 21.
-- **Versión**: 1.21.1-Drake-Stabilized.
+Addon de Slimefun mantenido y optimizado por DrakesCraft Labs para Paper 1.21.11.
+
+Todo el contenido, recetas y maquinaria se desbloquean e investigan directamente desde la **Guía de Slimefun (`/sf guide`)** sin necesidad de comandos especiales.
 
 ---
 
-## 🚀 Instalación y Uso
-Este addon viene pre-instalado en el ecosistema **DrakesVanillaSlimefun+**.
-1. Abre tu Guía de Slimefun.
-2. Busca la categoría **Química Nuclear (SlimeChem)**.
-3. Empieza tu viaje hacia el dominio de los elementos.
+## ⚙️ Características y Sistemas Principales
+
+* 🚀 **Rendimiento Optimizado**: Totalmente preparado para Java 21 sobre Paper 1.21.11, sin pausas de Garbage Collector ni telemetría externa.
+* 🛡️ **Seguridad e Integridad**: Transacciones atómicas de almacenamiento y protección estricta de inventarios.
+* 🎮 **Integración Total**: Compatible con Slimefun4-Drake, redes de logística NetworksV6, maquinaria pesada y economía global.
 
 ---
 
-[⬅️ Volver a la Suite Principal](../../README.md)
+## 📋 Compatibilidad Técnica
 
-<!-- DRAKES-STATUS:BEGIN -->
-> Estado de sincronizacion: **2026-04-24**.
-> Baseline tecnico vigente: **Paper 1.21.1 + Java 21**.
-> CI principal en `main`: **Gates 1-5 en verde**.
-> Nota: el monorepo completo sigue en migracion incremental por lotes.
-<!-- DRAKES-STATUS:END -->
+| Parámetro | Requisito |
+|---|---|
+| **Servidor** | Paper / Purpur / Folia **1.21.11** |
+| **Java** | **Java 21** LTS |
+| **Core** | [Slimefun4-Drake](https://github.com/DrakesCraft-Labs/Slimefun4-Drake) |
+| **Lado** | 100% Servidor (Server-side) |
+
+---
+
+## 📥 Instalación
+
+1. Descarga el `.jar` de la última versión desde la pestaña Releases o Modrinth.
+2. Colócalo en la carpeta `plugins/` del servidor junto a `Slimefun4-Drake.jar`.
+3. Inicia o reinicia el servidor.
+
+---
+
+<div align="center">
+
+**Desarrollado y Mantenido por [DrakesCraft Labs](https://github.com/DrakesCraft-Labs)**  
+Licencia **GPL-3.0-only** / **MIT**.
+
+</div>
